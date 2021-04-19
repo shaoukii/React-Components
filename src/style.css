@@ -1,0 +1,15 @@
+body{
+    background-color: black; 
+    display: flex; 
+}
+.name{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+color: white; 
+}  
+.photo{
+    
+} 
+.adress{
+    color: white;
+}
